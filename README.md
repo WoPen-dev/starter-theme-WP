@@ -45,3 +45,8 @@ Then, update the stylesheet header in `style.css`, the links in `footer.php` wit
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+
+Use
+---------------
+1. inspiration SASS : [Tools to build CSS from Sass](https://github.com/Automattic/_s/issues/1149)
+2. start sass compilation `sass --watch sass/style.scss:style.css`
